@@ -8,5 +8,8 @@
             "email": "masiprand@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "^4.3",
+        "nikic/fast-route": "^1.3"
+    }
 }

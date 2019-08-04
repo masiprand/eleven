@@ -1,0 +1,12 @@
+{
+    "name": "masiprand/eleven",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mas iprand",
+            "email": "masiprand@gmail.com"
+        }
+    ],
+    "require": {}
+}
